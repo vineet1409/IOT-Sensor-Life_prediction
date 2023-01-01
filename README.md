@@ -7,4 +7,5 @@ The team was endowed with the responsibility of creating an end-to-end ML pipeli
 ## Architecture
 ![Architecture](/Images/Architecture.jpg)
 
-![High_Level_ML_Train_pipeline](/Images/ML_Training Pipeline.png)
+
+![ML_Training_Pipeline](/Images/ML_Training_Pipeline.png)
