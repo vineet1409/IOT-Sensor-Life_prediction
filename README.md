@@ -9,26 +9,33 @@ The team was endowed with the responsibility of creating an end-to-end ML pipeli
 
 
 
-### ML Pipeline High Level Overview
+## ML Pipeline High Level Overview
 
 ![ML_Training_Pipeline](/Images/ML_Training_Pipeline.png)
 
+### Data Ingestion
 ![data_ingestion](/Images/data_ingestion.png)
 
+### Data Validation
 ![data_validation](/Images/data_validation.png)
 
+### Data Tranformation
 ![data_transformation](/Images/data_transformation.png)
 
+### Model Trainer
 ![model_trainer](/Images/model_trainer.png)
 
+### Data Evaluation
 ![model_evaluation](/Images/model_evaluation.png)
 
+### Model Prediction
 ![model_prediction](/Images/model_prediction.png)
 
+### Model Pusher
 ![model_pusher](/Images/model_pusher.png)
 
 
-### CI/CD Pipeline using GitHub Action for deployment on AWS EC2
+## CI/CD Pipeline using GitHub Action for deployment on AWS EC2
 1. Login to AWS console.
 
 2. Create IAM user for deployment
