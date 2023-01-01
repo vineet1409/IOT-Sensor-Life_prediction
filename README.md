@@ -25,7 +25,7 @@ The team was endowed with the responsibility of creating an end-to-end ML pipeli
 ### Model Trainer
 ![model_trainer](/Images/model_trainer.png)
 
-### Data Evaluation
+### Model Evaluation
 ![model_evaluation](/Images/model_evaluation.png)
 
 ### Model Prediction
@@ -102,6 +102,8 @@ AWS_ECR_LOGIN_URI=566373416292.dkr.ecr.ap-south-1.amazonaws.com
 ECR_REPOSITORY_NAME=sensor-fault
 
 MONGO_DB_URL=
+
+
 
 
 ## Results
