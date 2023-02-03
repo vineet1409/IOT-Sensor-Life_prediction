@@ -72,3 +72,9 @@ Run docker image
 ```
 docker run -it -v $(pwd)/logs:/logs  --env-file=$(pwd)/.env data-pipeline:lts
 ```
+
+
+
+## Kafka-Producer Flow
+
+![data_ingestion](/flowchart/producer.drawio.svg)
